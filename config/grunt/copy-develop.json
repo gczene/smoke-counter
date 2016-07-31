@@ -1,0 +1,13 @@
+[
+  {
+    "expand": false,
+    "src": "./bower_components/react/react.js",
+    "dest": "./dist/js/react.js"
+  },
+  {
+    "expand": false,
+    "src": "./bower_components/react/react-dom.js",
+    "dest": "./dist/js/react-dom.js"
+  }
+
+]

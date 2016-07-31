@@ -1,0 +1,10 @@
+[
+  {
+    "match": "react.js",
+    "replacement": "./js/react.js"
+  },
+  {
+    "match": "react-dom.js",
+    "replacement": "./js/react-dom.js"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "smoke-counter",
+  "version": "0.0.0",
+  "authors": [
+    "gczene <gabor@czene.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
